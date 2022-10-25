@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    background: linear-gradient(yellowgreen, yellow, darkgreen);
+    color: darkgreen;
+    font-size: 35px;
+    font-family: Qwitcher Grypen;
+    font-weight: bold;
+    width: 98%;
+    margin: 0;
+}
+
+.note
+{
+    font-size: 13.5px;
+    font-family: Montserrat;
+    color: black;
+}
+
+.song_name
+{
+    font-size: 40px;
+    font-family: Amatic SC;
+    font-weight: bold;
+    background: linear-gradient(yellow, red, maroon);
+    color: white;
+}
