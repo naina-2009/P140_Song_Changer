@@ -29,3 +29,17 @@ body
     background: linear-gradient(yellow, red, maroon);
     color: white;
 }
+.play
+{
+    background: linear-gradient(yellow, rgb(212, 212, 39), rgb(148, 148, 29), rgb(102, 102, 18), rgb(60, 60, 12));
+    font-size: 30px;
+    font-family: Caveat;
+    color: black;
+}
+canvas
+{
+    border: 6px solid white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px white;
+    margin: 30px;
+}
